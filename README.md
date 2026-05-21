@@ -78,46 +78,10 @@ pip install -r requirements.txt
 |       colorization_release_v2.caffemodel
 |       models_colorization_deploy_v2.prototxt
 |       pts_in_hull.npy     
-\---Result_images
-        colored_c1.jpg
-        colored_c7.jpg
-        colored_c8.jpg
+
 ```
-## To Do
-- To Convert the application to colorize black and white videos.
 
-## Bug / Feature Request
-If you find a bug , kindly open an issue [here](https://github.com/dhananjayan-r/Colorizer/issues) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dhananjayan-r/Colorizer/issues). Please include sample queries and their corresponding results.
 
-## Technologies Used
-![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/730px-OpenCV_Logo_with_text_svg_version.svg.png" width=200>](https://opencv.org/)[<img target="_blank" src="https://miro.medium.com/max/4000/0*cSCGhssjeajRD3qs.png" width=200>](https://www.streamlit.io/)
-
-## Team
-[<img target="_blank" src="https://avatars1.githubusercontent.com/u/71431013?s=400&u=75dd4c7e7d0901bc0b7cedbe9c3d7201188ec37f&v=4" width=200>](https://www.linkedin.com/in/dhananjayan-r-1b91b1148/) |
--|
-[Dhananjayan](https://www.linkedin.com/in/dhananjayan-r-1b91b1148/) |)
-
-## License
-![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)
-
-Copyright 2020 Dhananjayan R
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
-## Credits
-- [“ Black and white image colorization with OpenCV and Deep Learning” by Dr. Adrian Rosebrok "](https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/) - This project wouldn't have been possible without these references.
-- [The official publication of Zhang et al.](http://richzhang.github.io/colorization/)
+     

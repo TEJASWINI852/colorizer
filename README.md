@@ -52,7 +52,7 @@ Here is a photo of Che guevara from 60's colorized:
 ## The entire (simplified) process can be summarized as:
 - Convert all training images from the RGB color space to the Lab color space.
 - Use the L channel as the input to the network and train the network to predict the ab channels.
-- Combine the input L channel with the predicted ab channels.
+- Combine the input L channel with the predicted ab channels..
 - Convert the Lab image back to RGB.
 
 <img target="_blank" src="https://user-images.githubusercontent.com/71431013/99061033-f048fe80-25c6-11eb-8bc5-d6312c7021b6.png" width=500>
